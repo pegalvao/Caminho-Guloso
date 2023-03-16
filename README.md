@@ -14,6 +14,9 @@
 
 6 - Ao alcançar a última linha e coluna da matriz, selecione a próxima matriz e repita todo o processo novamente. Por fim, apresente ao usuário qual foi o caminho adotado e qual a soma obtida do caminho realizado.
 
+### Solução
+
+Primeiramente foi criada uma configuração para criar matrizes randômicas 
 
 ### Compilação e Execução
 
