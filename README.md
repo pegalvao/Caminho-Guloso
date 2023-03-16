@@ -1,6 +1,6 @@
 # Caminho Guloso
 
-                                                              ###Problema proposto
+### Problema proposto
                                                       
 1 - Criar um sistema que leia K matrizes quadradas no tamanho NxN.
 
