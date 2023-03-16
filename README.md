@@ -1,7 +1,5 @@
 # Caminho-Guloso
-
-                                                          #Atividade proposta:
-                                                        
+                                                      
 1 - Criar um sistema que leia K matrizes quadradas no tamanho NxN.
 
 2 - Seu programa deve enumerá-las, de forma a deixa-las organizadas para processamento. 
